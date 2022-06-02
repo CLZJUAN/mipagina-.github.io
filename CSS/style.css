@@ -1,0 +1,123 @@
+*{margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  }
+
+#SOLAR{
+background-image: url("/IMG/FONDO2.jpg");
+height: 100vh;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+h4{
+ font-size: 36px;
+ font-style: oblique;
+ color: rgb(196, 129, 243);
+}
+
+.foco{font-size: 72px;
+  background-color: rgba(0, 255, 51, 0);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.ESTRELLA{height: auto;
+  width: auto;
+  min-width: 270px;
+  max-height: 270px;
+  border-radius: 49%;
+  object-fit: cover;
+}
+
+ h1{font-size: 56px;
+font-family: italic;
+color: rgb(255, 225, 0);
+text-align: center;
+
+}
+
+article{font-size: 62px;
+  color: rgb(0, 170, 255);
+  padding: 10px;
+  margin: 10px;
+}
+
+H2{font-size: 42px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(0, 4, 255);
+justify-content: center;
+text-align: center;
+text-decoration:none;
+}
+H3{font-size: 36px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: coral;
+text-align: center;
+}
+
+.INICIO{width: 100%;
+  height: 206px;
+  background-color: rgba(252, 36, 36, 0.809);
+  margin-top: 22px;
+  align-items: center;
+  nav-down: auto;}
+  
+.BOX3{text-align: center;
+  padding: 20px;
+  margin-top: 0%;
+  font-size: 37px;
+  color: rgb(255, 98, 0);
+  background-color: rgb(0, 0, 0);
+  }
+
+.REDES{font-size: 36px;
+color: darkorchid;
+}
+
+p{font-size: 36px;
+color: deeppink;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+  
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
