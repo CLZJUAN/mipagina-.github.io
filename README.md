@@ -1,7 +1,5 @@
 # mipagina-.github.io
 
-hola como estas es un avanze de como va quedando me falta el menu responsivo crear que lo unire a un 2 style para no juntarlo todo en 1 
-y MUY IMPORTANTE AGREGAR las @media query 
+hola como estas es un avanze de como va quedando me falta el menu responsivo las @media iconos en los submenus y hacerlo mas prolijo 
 
-pienso reformar toda la info del html 
 
