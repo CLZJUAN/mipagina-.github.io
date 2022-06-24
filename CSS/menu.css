@@ -1,4 +1,10 @@
-
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: rgb(255, 21, 0);
+}
 
 h4{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -9,13 +15,14 @@ h4{
 
   .menu{
   font-size: 34px;
-  color: rgb(129, 0, 250);
+  color: rgb(250, 250, 0);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: aqua;
-  padding: 2px;
+  background-color: rgb(17, 0, 0);
+  padding: 20px 3px;
+  max-width: 20px;
   nav-down: auto;
   max-width: max-content;
-  text-decoration: none;
+  display: flow-root;
   }
 
 
