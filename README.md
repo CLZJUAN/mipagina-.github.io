@@ -10,3 +10,9 @@ para tener variedad y no centrarme en una ademas corregire errores de sintaxis y
 de distintas fuentes y mas 
 
 
+tendre que modificar y lo hare en forma de negocios osea de comprar planetas io estrella 
+
+formulartio de contacto proximo a hacer
+
+
+
